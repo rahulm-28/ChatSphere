@@ -1,8 +1,6 @@
-I'd be glad to create a comprehensive README file for your GitHub repository, incorporating best practices and insights from expert ratings:
-
 **Title**
 
-* **[Project Name]: A Real-Time Chat Room Application** (Replace with your project's name)
+* **[ChatSphere]: A Real-Time Chat Room Application** (Replace with your project's name)
 
 **Description**
 
