@@ -1,6 +1,6 @@
 **Title**
 
-* **ChatSphere: A Real-Time Chat Room Application** (Replace with your project's name)
+* **ChatSphere: A Real-Time Chat Room Application**
 
 **Description**
 
