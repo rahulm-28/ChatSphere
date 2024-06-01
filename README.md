@@ -1,6 +1,6 @@
 **Title**
 
-* **[ChatSphere]: A Real-Time Chat Room Application** (Replace with your project's name)
+* **ChatSphere: A Real-Time Chat Room Application** (Replace with your project's name)
 
 **Description**
 
@@ -8,25 +8,6 @@
 
 ```markdown
 This is a real-time chat room application built with Next.js (frontend), Node.js with Express and Socket.IO (backend), and SQL Server (database). It allows users to create chat rooms with specific topics, join existing rooms, and chat with others in real-time.
-```
-
-**Table of Contents (Optional)**
-
-* If your README is extensive, consider including a table of contents for easy navigation:
-
-```markdown
-## Table of Contents
-
-* [Project Description](#project-description)
-* [Tech Stack](#tech-stack)
-* [Installation](#installation)
-* [Usage](#usage)
-    * [Creating Rooms](#creating-rooms)
-    * [Joining Rooms](#joining-rooms)
-    * [Sending and Receiving Messages](#sending-and-receiving-messages)
-* [Development](#development)
-* [Contributing](#contributing)
-* [License](#license)
 ```
 
 **Tech Stack**
@@ -51,13 +32,13 @@ This is a real-time chat room application built with Next.js (frontend), Node.js
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
+   git clone [https://github.com/](https://github.com/)rahulm-28/ChatSphere.git
    ```
 
 2. **Install dependencies:**
 
    ```bash
-   cd <your-repo-name>
+   cd ChatSphere
    npm install
    ```
 
